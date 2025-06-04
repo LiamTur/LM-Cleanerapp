@@ -14,6 +14,9 @@ function App() {
 	<Route path="/chores" element={<Chores />} />
 	</Routes>
 	);
+		<>
+		<a href="/LM-Cleanerapp/">Go to Login</a>
+	</>
 }
 
 export default App
